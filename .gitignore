@@ -41,6 +41,9 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
+*.mvn
+mvnw
+mvnw.cmd
 
 ### NetBeans ###
 /nbproject/private/
